@@ -103,9 +103,16 @@ h1 {
 
 @media (max-width: 1500px) {
     header {
-        width: 35%;
+        width: 20%;
     }
 }
+
+@media (max-width: 1395px) {
+    header {
+        width: 30%;
+    }
+}
+
 
 @media (max-width: 940px) {
     header {
